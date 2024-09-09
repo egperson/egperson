@@ -1,9 +1,9 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=git-eg&theme=dark&show_icons=true" alt="ilustração do status do github">
-<div align="center">
+<div align="right">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-<p align="">
+<p align="right">
   <img
     src="https://profile-counter.glitch.me/iuricode/count.svg"
     alt="Número de visitantes no perfil"
