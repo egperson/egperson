@@ -1,5 +1,5 @@
 > [!NOTE]
-> Todos São Bem-Vindos!.
+> Sejam Todos São Bem-Vindos!.
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=git-eg&theme=dark&show_icons=true" alt="ilustração do status do github">
 
