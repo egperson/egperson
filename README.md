@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=git-eg&theme=dark&show_icons=true" alt="ilustração do status do github">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-eg&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 
 ### Olá, meu nome é Eduardo Guilherme!
 
