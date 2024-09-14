@@ -2,8 +2,6 @@
 
 ### Olá! Meu nome é Eduardo Guilherme!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Eduardo Guilherme&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
 <p>Trabalhando como Desenvolvedor Web!</p>
 
 ### 🚀 Minhas Skills
