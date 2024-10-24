@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=git-eg&theme=dark&show_icons=true" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=egoficial&theme=dark&show_icons=true" alt="ilustração do status do github">
 
 ### Olá! Meu nome é Eduardo Guilherme!
 
