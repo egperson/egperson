@@ -15,28 +15,26 @@
 
 ---
 
-### 🌟 Projetos em Destaque
+<p align="center">🌟 Projetos em Destaque</p>
 
-Aqui estão alguns dos meus projetos:
+<p align="center">Aqui estão alguns dos meus projetos:</p>
 
-- [Projeto 1](https://github.com/egoficial/Alura-Maker) - Um script que faz os cursos da Alura Automaticamente!
-- [Projeto 2](https://github.com/egoficial/Me-Salva-Maker) - Um Script que faz os exercicios do Me Salva Automaticamente!
+- [Alura Maker](https://github.com/egoficial/Alura-Maker) - Um script que faz os cursos da Alura Automaticamente!
+- [Me Salva Maker](https://github.com/egoficial/Me-Salva-Maker) - Um Script que faz os exercicios do Me Salva Automaticamente!
 
 ---
 
-### 📫 Vamos nos conectar!
+<p align="center">📫 Vamos nos conectar!</p>
 
-Você pode me encontrar em:
+<p align="center">Você pode me encontrar em:</p>
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- [Twitter](https://twitter.com/seu_perfil)
 - [Website](https://egoficial.github.io/portfolio)
 
 ---
 
-### 🤝 Estou aberto a colaborações!
+<p align="center">🤝 Estou aberto a colaborações!</p>
 
-Se você tiver alguma ideia ou projeto em mente, não hesite em me contatar! Adoraria colaborar.
+<p align="center">Se você tiver alguma ideia ou projeto em mente, não hesite em me contatar! Adoraria colaborar.</p>
 
 ---
 
