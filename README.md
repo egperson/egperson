@@ -2,7 +2,7 @@
 
 ### Olá! Meu nome é Eduardo Guilherme!
 
-<p>🔧 Desenvolvedor Web | Criador da <strong>E.G Digital Solutions™</strong></p>
+<p>🔧 Desenvolvedor Web</p>
 
 ---
 
