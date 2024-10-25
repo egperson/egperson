@@ -1,4 +1,4 @@
-<h2 align="center" style="margin: 0;">Olá 👋! Meu nome é Eduardo Guilherme e Eu sou Desenvolvedor Web!</h2>
+<h1 align="center" style="margin: 0;">OLÁ 👋! MEU NOME É EDUARDO GUILHERME E EU SOU DESENVOLVEDOR WEB!</h1>
 
 <h1 align="center" style="margin: 0;">=================== STACK ===================</h1>
 <div align="center" style="display: flex; justify-content: center;">
