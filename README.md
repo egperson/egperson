@@ -19,9 +19,8 @@
 
 Aqui estão alguns dos meus projetos:
 
-- [Projeto 1](https://github.com/egoficial/projeto1) - Descrição breve do projeto 1.
-- [Projeto 2](https://github.com/egoficial/projeto2) - Descrição breve do projeto 2.
-- [Projeto 3](https://github.com/egoficial/projeto3) - Descrição breve do projeto 3.
+- [Projeto 1](https://github.com/egoficial/Alura-Maker) - Um script que faz os cursos da Alura Automaticamente!
+- [Projeto 2](https://github.com/egoficial/Me-Salva-Maker) - Um Script que faz os exercicios do Me Salva Automaticamente!
 
 ---
 
@@ -31,7 +30,7 @@ Você pode me encontrar em:
 
 - [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
 - [Twitter](https://twitter.com/seu_perfil)
-- [Website](https://www.seusite.com)
+- [Website](https://egoficial.github.io/portfolio)
 
 ---
 
