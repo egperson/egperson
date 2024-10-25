@@ -1,6 +1,7 @@
 <h2 align="center">Olá 👋! Meu nome é Eduardo Guilherme e Eu sou Desenvolvedor Web!</h2>
 
----
+###
+
 <h1 align="center">STACK</h1>
 <div align="center" style="display: flex; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
