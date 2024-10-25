@@ -1,6 +1,6 @@
 <h2 align="center">Olá 👋! Meu nome é Eduardo Guilherme e Eu sou Desenvolvedor Web!</h2>
 
-###
+---
 
 <h1 align="center">STACK</h1>
 <div align="center" style="display: flex; justify-content: center;">
