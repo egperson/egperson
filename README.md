@@ -2,14 +2,12 @@
 
 <h1 align="center" style="margin: 0;">================== STACK ==================</h1>
 <div align="center" style="display: flex; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="42"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" style="margin: 0; border: none;" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="30" alt="react logo" style="margin: 0; border: none;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin: 0; border: none;" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="42"/>
+
 </div>
 
 <h1 align="center" style="margin: 0;">================ ESTATISTICAS ================</h1>
