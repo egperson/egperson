@@ -2,7 +2,7 @@
 
 ### Olá! Meu nome é Eduardo Guilherme!
 
-<p>🔧 Desenvolvedor Web</p>
+<p>🔧 Trabalhando Como Desenvolvedor Web</p>
 
 ---
 
