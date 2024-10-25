@@ -1,6 +1,6 @@
 <h2 align="center" style="margin: 0;">Olá 👋! Meu nome é Eduardo Guilherme e Eu sou Desenvolvedor Web!</h2>
 
-<h1 align="center" style="margin: 0;">================== STACK ==================</h1>
+<h1 align="center" style="margin: 0;">=================== STACK ===================</h1>
 <div align="center" style="display: flex; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin: 0; border: none;" />
   <img width="12" />
@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egoficial&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" style="margin: 0; border: none;" />
 </div>
 
-<h1 align="center" style="margin: 0;">=================CONTATO=================</h1>
+<h1 align="center" style="margin: 0;">================= CONTATO =================</h1>
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://www.youtube.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" style="margin: 0; border: none;" />
