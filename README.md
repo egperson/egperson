@@ -24,7 +24,7 @@
   <a href="https://www.youtube.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" style="margin: 0; border: none;" />
   </a>
-  <a href="https://www.instagram.com" target="_blank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/insta.eg_/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" style="margin: 0; border: none;" />
   </a>
   <a href="https://www.twitch.tv" target="_blank" style="text-decoration: none;">
