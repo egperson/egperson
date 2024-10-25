@@ -14,7 +14,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="30" alt="react logo" style="margin: 0; border: none;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node.svg" height="30" alt="react logo" style="margin: 0; border: none;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="react logo" style="margin: 0; border: none;" />
   <img width="12" />
 </div>
 
