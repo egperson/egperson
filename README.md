@@ -19,8 +19,8 @@
 
 <p align="center">Aqui estão alguns dos meus projetos:</p>
 
-<p align="center">- https://github.com/egoficial/Alura-Maker - Um script que faz os cursos da Alura Automaticamente!</p>
-- [Me Salva Maker](https://github.com/egoficial/Me-Salva-Maker) - Um Script que faz os exercicios do Me Salva Automaticamente!
+<p align="center">-<a href="https://github.com/egoficial/Alura-Maker" target="_blank">https://github.com/egoficial/Alura-Maker</a> - Um script que faz os cursos da Alura Automaticamente!</p>
+<p align="center">-<a href="https://github.com/egoficial/Me-Salva-Maker" target="_blank">https://github.com/egoficial/Alura-Maker</a> - Um Script que faz os exercicios do Me Salva Automaticamente!</p>
 
 ---
 
@@ -28,7 +28,7 @@
 
 <p align="center">Você pode me encontrar em:</p>
 
-- [Website](https://egoficial.github.io/portfolio)
+<p align="center">- <a href="https://egoficial.github.io/portfolio">Portfólio Pessoal</a></p>
 
 ---
 
