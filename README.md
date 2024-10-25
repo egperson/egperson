@@ -1,6 +1,6 @@
 <h1 align="center" style="margin: 0;">OLÁ 👋! MEU NOME É EDUARDO GUILHERME E EU SOU DESENVOLVEDOR WEB!</h1>
 
-<h1 align="center" style="margin: 0;">=================== STACK ===================</h1>
+<h1 align="center" style="margin: 0;">================== STACK ==================</h1>
 <div align="center" style="display: flex; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin: 0; border: none;" />
   <img width="12" />
