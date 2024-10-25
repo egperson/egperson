@@ -19,7 +19,7 @@
 
 <p align="center">Aqui estão alguns dos meus projetos:</p>
 
-- [Alura Maker](https://github.com/egoficial/Alura-Maker) - Um script que faz os cursos da Alura Automaticamente!
+<p align="center">- [Alura Maker](https://github.com/egoficial/Alura-Maker) - Um script que faz os cursos da Alura Automaticamente!</p>
 - [Me Salva Maker](https://github.com/egoficial/Me-Salva-Maker) - Um Script que faz os exercicios do Me Salva Automaticamente!
 
 ---
