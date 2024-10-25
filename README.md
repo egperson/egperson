@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/egoficial/egoficial/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/egoficial/egoficial/blob/output/snake2.svg)
 
 ###
