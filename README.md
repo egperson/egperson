@@ -12,8 +12,8 @@
 
 <h1 align="center" style="margin: 0;">================ ESTATÍSTICAS ================</h1>
 <div align="center" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=egoficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph" style="margin: 0; border: none;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egoficial&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" style="margin: 0; border: none;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=egoficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true" height="150" alt="stats graph" style="margin: 0; border: none;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egoficial&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph" style="margin: 0; border: none;" />
 </div>
 
 <h1 align="center" style="margin: 0;">================= CONTATO =================</h1>
