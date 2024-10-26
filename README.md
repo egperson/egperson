@@ -19,13 +19,13 @@
 <h1 align="center" style="margin: 0;">================= CONTATO =================</h1>
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://www.youtube.com/@EgOnYoutube" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" style="margin: 0; border: none;" />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&labelColor=&style=for-the-badge" height="35" alt="YouTube"/>
   </a>
   <a href="https://www.instagram.com/insta.eg_/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" style="margin: 0; border: none;" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&labelColor=&style=for-the-badge" height="35" alt="Instagram"/>
   </a>
   <a href="https://discord.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" style="margin: 0; border: none;" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&labelColor=&style=for-the-badge" height="35" alt="Discord"/>
   </a>
 </div>
 
