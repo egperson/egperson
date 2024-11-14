@@ -1,4 +1,4 @@
-<h1 style="margin: 0;">Olá! Meu nome é Eduardo Guilherme! <sup>Desenvolvedor Web</sup></h1>
+<h1 style="margin: 0;">Olá! Meu nome é Eduardo Guilherme! <sup>(Desenvolvedor Web)</sup></h1>
 
 <h1 style="margin: 0;"><img src="./icons/arrow_drop_down.svg">Stack<img src="./icons/arrow_drop_down.svg"></h1>
 <div style="display: flex; justify-content: center;">
