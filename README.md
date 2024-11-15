@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 Atualmente estou trabalhando para: **Desenvolver Minhas Habilidades!**
+- 🔭 Por hora estou trabalhando para: **Desenvolver Minhas Habilidades!**
 
 - 🌱 Atualmente estou aprendendo: **Tecnologias Para Web!**
 
