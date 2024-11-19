@@ -18,6 +18,6 @@
 ---
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egoficial&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="egoficial" />
   <img src="https://github-readme-stats.vercel.app/api?username=egoficial&show_icons=true&theme=dark&locale=pt-br" alt="egoficial" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egoficial&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="egoficial" />
 </div>
