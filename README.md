@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estou aprendendo: **Tecnologias Para Web!**
 
-- 👯 Estou procurando colaborar em: **Projetos Privados/Públicos!**
+- 👯 Estou procurando colaborar em: **Projetos Públicos e Privados!!**
 
 - 🤝 Estou procurando ajuda para: **Ganhar Experiência!**
 
