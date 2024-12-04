@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, Eu sou Eduardo Guilherme <img src="https://komarev.com/ghpvc/?username=egoficial&label=Visitantes&color=000000&style=flat" alt="egoficial" /></h1>
-<h3 align="center" text-align="center">Um Desenvolvedor do Brasil</h3>
+<h1 align="center">Oi 👋, Eu sou Eduardo Guilherme. <img src="https://komarev.com/ghpvc/?username=egoficial&label=Visitantes&color=000000&style=flat" alt="egoficial" /></h1>
+<h3 align="center" text-align="center">Um Desenvolvedor do Brasil!.</h3>
 
 ---
 
