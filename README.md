@@ -5,7 +5,7 @@
 
 - 🔭 Por hora estou trabalhando para: **Desenvolver Minhas Habilidades!**
 
-- 🌱 Atualmente estou aprendendo: **C++!**
+- 🌱 Atualmente estou aprendendo: **Desenvolvimento Web!**
 
 - 👯 Estou procurando colaborar em: **Projetos Públicos e Privados!!**
 
