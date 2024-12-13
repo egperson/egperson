@@ -10,6 +10,7 @@
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/egoficial?tab=repositories](https://github.com/egoficial?tab=repositories)
 
 - ⚡ Curiosidade: **Amigável!**
+
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=egoficial&show_icons=true&theme=dark&locale=pt-br" alt="egoficial" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egoficial&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="egoficial" />
