@@ -1,8 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou Eduardo Guilherme. <img src="https://komarev.com/ghpvc/?username=egoficial&label=Visitantes&color=000000&style=flat" alt="egoficial" /></h1>
 - 🔭 Por hora estou trabalhando para: **Desenvolver Minhas Habilidades!**
 
-- 🌱 Atualmente estou aprendendo: **Desenvolvimento Web!**
-
 - 👯 Estou procurando colaborar em: **Projetos Públicos e Privados!!**
 
 - 🤝 Estou procurando ajuda para: **Ganhar Experiência!**
