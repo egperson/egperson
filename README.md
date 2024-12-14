@@ -15,13 +15,13 @@ Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, 
 
 ![egoficial's GitHub Stats](https://github-readme-stats.vercel.app/api?username=egoficial&show_icons=true&theme=default&locale=pt-br).
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egoficial&layout=compact&theme=default).
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egoficial&layout=compact&theme=default&locale=pt-br).
 
 ---
 
 ## 🏆 Conquistas no GitHub:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=egoficial&theme=default).
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=egoficial&theme=default&locale=pt-br).
 
 ---
 
