@@ -13,7 +13,7 @@ Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, 
 
 ## 📊 Minhas Estatísticas:
 
-![egoficial's GitHub Stats](https://github-readme-stats.vercel.app/api?username=egoficial&show_icons=true&theme=default).
+![egoficial's GitHub Stats](https://github-readme-stats.vercel.app/api?username=egoficial&show_icons=true&theme=default&locale=pt-br).
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egoficial&layout=compact&theme=default).
 
