@@ -1,15 +1,9 @@
-<h1 align="center">Oi 👋, Eu sou Eduardo Guilherme. <img src="https://komarev.com/ghpvc/?username=egoficial&label=Visitantes&color=000000&style=flat" alt="egoficial" /></h1>
-- 🔭 Por hora estou trabalhando para: **Desenvolver Minhas Habilidades!**
+<h1>Olá 👋, meu nome é Eduardo Guilherme (E.G)</h1>
 
-- 👯 Estou procurando colaborar em: **Projetos Públicos e Privados!!**
+<h2>⚙️ Github Status</h2>
 
-- 🤝 Estou procurando ajuda para: **Ganhar Experiência!**
+[![card](https://github-readme-stats.vercel.app/api?username=egoficial&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/egoficial?tab=repositories](https://github.com/egoficial?tab=repositories)
+<h2>⚙️ Linguagens</h2>
 
-- ⚡ Curiosidade: **Amigável!**
-
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=egoficial&show_icons=true&theme=dark&locale=pt-br" alt="egoficial" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egoficial&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="egoficial" />
-</div>
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=egoficial&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
