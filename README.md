@@ -4,7 +4,7 @@ Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, 
 
 ---
 
-<div style="border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
   <h2>🔧 Tecnologias e Ferramentas</h2>
   <ul style="list-style-type: none; padding: 0; text-align: center;">
     <li>💻 <strong>Linguagens:</strong> JavaScript, TypeScript</li>
@@ -14,7 +14,7 @@ Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, 
 
 ---
 
-<div style="border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
   <h2>📊 Minhas Estatísticas</h2>
   <p>Confira as minhas contribuições e projetos no GitHub:</p>
   <div style="display: flex; flex-direction: column; align-items: center;">
@@ -25,7 +25,7 @@ Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, 
 
 ---
 
-<div style="border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
   <h2>🌱 Sobre mim</h2>
   <ul style="list-style-type: none; padding: 0; text-align: center;">
     <li>📚 Atualmente aprendendo mais sobre desenvolvimento web</li>
@@ -36,7 +36,7 @@ Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, 
 
 ---
 
-<div style="border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
   <h2>🌐 Vamos nos conectar?</h2>
   <p>Me siga nas redes sociais para interagir, colaborar e trocar ideias:</p>
   <a href="https://linkedin.com/in/egoficial" target="_blank" style="text-decoration: none; color: #0077b5; font-weight: bold;">📫 Conecte-se no LinkedIn</a>
