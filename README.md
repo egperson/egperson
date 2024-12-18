@@ -4,7 +4,7 @@ Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, 
 
 ## 🔧 Tecnologias e Ferramentas:
 
-- 💻 Linguagens: C++, JavaScript, HTML/CSS,
+- 💻 Linguagens: JavaScript, TypeScript,
 - 🌘 Desenvolvimento Web: React, Node.js, Express,
 - 🎮 Engenharia Reversa e Game Hacking,
 - 📈 Sempre aprendendo: Novas linguagens e frameworks.
