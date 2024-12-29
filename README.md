@@ -14,8 +14,8 @@ Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, 
   <h2>📊 Minhas Estatísticas</h2>
   <p>Confira as minhas contribuições e projetos no GitHub:</p>
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=egoficial&show_icons=true&theme=default&locale=pt-br" alt="egoficial's GitHub Stats" style="border-radius: 10px; margin-bottom: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egoficial&layout=compact&theme=default&locale=pt-br" alt="Top Languages" style="border-radius: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=egoficial&show_icons=true&theme=dark&locale=pt-br" alt="egoficial's GitHub Stats" style="border-radius: 10px; margin-bottom: 15px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egoficial&layout=compact&theme=dark&locale=pt-br" alt="Top Languages" style="border-radius: 10px;">
   </div>
 </div>
 
