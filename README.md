@@ -2,17 +2,13 @@
 
 Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, sempre explorando novas ideias e buscando criar soluções incríveis. 🚀
 
----
-
 <div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
   <h2>🔧 Tecnologias e Ferramentas</h2>
   <ul style="list-style-type: none; padding: 0; text-align: center;">
-    <li>💻 <strong>Linguagens:</strong> JavaScript, TypeScript</li>
-    <li>🌘 <strong>Desenvolvimento Web:</strong> HTML5, CSS3, SCSS, ReactJs, NodeJs</li>
+    <li>💻 <strong>Linguagens:</strong> JAVASCRIPT, TYPESCRIPT</li>
+    <li>🌘 <strong>Desenvolvimento Web:</strong> HTML5, CSS3, SCSS, REACT.JS, NODE.JS</li>
   </ul>
 </div>
-
----
 
 <div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
   <h2>📊 Minhas Estatísticas</h2>
@@ -23,8 +19,6 @@ Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, 
   </div>
 </div>
 
----
-
 <div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
   <h2>🌱 Sobre mim</h2>
   <ul style="list-style-type: none; padding: 0; text-align: center;">
@@ -33,15 +27,5 @@ Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, 
     <li>💼 Aberto a colaborações em projetos e oportunidades profissionais</li>
   </ul>
 </div>
-
----
-
-<div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
-  <h2>🌐 Vamos nos conectar?</h2>
-  <p>Me siga nas redes sociais para interagir, colaborar e trocar ideias:</p>
-  <a href="https://linkedin.com/in/egoficial" target="_blank" style="text-decoration: none; color: #0077b5; font-weight: bold;">📫 Conecte-se no LinkedIn</a>
-</div>
-
----
 
 ⭐️ **Obrigado por visitar meu perfil!** Não se esqueça de dar uma ⭐️ nos meus repositórios favoritos!
