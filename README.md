@@ -5,9 +5,9 @@
 <div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
   <h2>Tecnologias e Ferramentas</h2>
   <ul style="list-style-type: none; padding: 0; text-align: center;">
-    <li><strong>Linguagens:</strong>JAVASCRIPT, TYPESCRIPT.</li>
-    <li><strong>Desenvolvimento Web:</strong>HTML5, CSS3, SCSS, REACT.JS, NODE.JS.</li>
-    <li><strong>Sistema Operacional:</strong>UBUNTU 24.04.01</li>
+    <li><strong>Linguagens: </strong>JAVASCRIPT, TYPESCRIPT.</li>
+    <li><strong>Desenvolvimento Web: </strong>HTML5, CSS3, SCSS, REACT.JS, NODE.JS.</li>
+    <li><strong>Sistema Operacional: </strong>UBUNTU 24.04.01</li>
   </ul>
 </div>
 
