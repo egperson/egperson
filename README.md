@@ -3,10 +3,10 @@
 ### Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, sempre explorando novas ideias e buscando criar soluções incríveis.
 
 <!-- Tecnologias e Ferramentas -->
-<table style="border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
+<table style="width: 100%; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4;">
   <thead>
     <tr>
-      <th colspan="2" style="font-size: 20px; padding: 10px;">Tecnologias e Ferramentas</th>
+      <th colspan="2" style="font-size: 20px; padding: 10px; text-align: center;">Tecnologias e Ferramentas</th>
     </tr>
   </thead>
   <tbody>
@@ -38,10 +38,10 @@
 </table>
 
 <!-- Sobre mim -->
-<table style="border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
+<table style="width: 100%; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; margin-top: 20px;">
   <thead>
     <tr>
-      <th style="font-size: 20px; padding: 10px;">Sobre mim</th>
+      <th style="font-size: 20px; padding: 10px; text-align: center;">Sobre mim</th>
     </tr>
   </thead>
   <tbody>
@@ -56,6 +56,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 **Obrigado por visitar meu perfil!** Não se esqueça de dar uma !star nos seus repositórios favoritos!
