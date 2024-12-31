@@ -9,8 +9,8 @@
       <li><strong>Desenvolvimento Web: </strong>HTML5, CSS3, SCSS, REACT.JS, NODE.JS.</li>
       <li><strong>Banco de Dados: </strong>MYSQL, MONGODB.</li>
       <li><strong>Ferramentas de Design: </strong>PHOTOSHOP, ILUSTRATOR, FIGMA.</li>
-      <li><strong>Ferramentas de Modelagem: </strong>BLENDER3D, CINEMA4D.</li>
-      <li><strong>Sistema Operacional: </strong>WINDOWS 11.</li> 
+      <li><strong>Ferramentas de Modelagem: </strong>BLENDER-3D, CINEMA-4D.</li>
+      <li><strong>Sistema Operacional: </strong>WINDOWS-11.</li> 
   </ul> 
 </div> 
 
