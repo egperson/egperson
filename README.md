@@ -25,5 +25,5 @@
 
 **Obrigado por visitar meu perfil!** Não se esqueça de dar uma !star nos seus repositórios favoritos!
 
-|  <img height=200 src="https://github-readme-stats.vercel.app/api?username=anuraghazra" /> |  |
+|  <img height=200 src="https://github-readme-stats.vercel.app/api?username=egoficial"/> | <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=egoficial&layout=compact&langs_count=8&card_width=320"/> |
 |---------------------------------------------|----------------------------------------------------------|
