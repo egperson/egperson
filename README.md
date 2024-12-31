@@ -26,3 +26,4 @@
 **Obrigado por visitar meu perfil!** Não se esqueça de dar uma !star nos seus repositórios favoritos!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egoficial&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=egoficial)](https://github.com/anuraghazra/github-readme-stats)
