@@ -8,6 +8,7 @@
     <li><strong>Linguagens: </strong>JAVASCRIPT, TYPESCRIPT.</li>
     <li><strong>Desenvolvimento Web: </strong>HTML5, CSS3, SCSS, REACT.JS, NODE.JS.</li>
     <li><strong>Banco de Dados: </strong>MYSQL, MONGODB.</li>
+    <li><strong>Ferramentas de Design: </strong>FIGMA</li>
     <li><strong>Sistema Operacional: </strong>WINDOWS 11.</li>
   </ul>
 </div>
