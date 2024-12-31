@@ -3,7 +3,7 @@
 ### Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, sempre explorando novas ideias e buscando criar soluções incríveis.
 
 <!-- Tecnologias e Ferramentas -->
-<table align="center" style="border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
+<table style="border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
   <thead>
     <tr>
       <th colspan="2" style="font-size: 20px; padding: 10px;">Tecnologias e Ferramentas</th>
@@ -38,7 +38,7 @@
 </table>
 
 <!-- Sobre mim -->
-<table align="center" style="border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
+<table style="border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
   <thead>
     <tr>
       <th style="font-size: 20px; padding: 10px;">Sobre mim</th>
