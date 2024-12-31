@@ -25,5 +25,8 @@
 
 **Obrigado por visitar meu perfil!** Não se esqueça de dar uma !star nos seus repositórios favoritos!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=egoficial" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=egoficial&layout=compact&langs_count=8&card_width=320" />
+<div display="flex">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=egoficial" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=egoficial&layout=compact&langs_count=8&card_width=320" />
+</div>
+
