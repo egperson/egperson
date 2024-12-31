@@ -7,7 +7,7 @@
   <ul style="list-style-type: none; padding: 0; text-align: center;">
     <li><strong>Linguagens: </strong>JAVASCRIPT, TYPESCRIPT.</li>
     <li><strong>Desenvolvimento Web: </strong>HTML5, CSS3, SCSS, REACT.JS, NODE.JS.</li>
-    <li><strong>Sistema Operacional: </strong>UBUNTU 24.04.01</li>
+    <li><strong>Sistema Operacional: </strong>WINDOWS 11</li>
   </ul>
 </div>
 
