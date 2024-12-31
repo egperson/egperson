@@ -2,26 +2,61 @@
 
 ### Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, sempre explorando novas ideias e buscando criar soluções incríveis.
 
-<div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
-  <h2>Tecnologias e Ferramentas</h2>
-  <ul style="list-style-type: none; padding: 0; text-align: center;">
-    <li><strong>Linguagens: </strong>JAVASCRIPT, TYPESCRIPT.</li>
-    <li><strong>Desenvolvimento Web: </strong>HTML5, CSS3, SCSS, REACT.JS, NODE.JS.</li>
-    <li><strong>Banco de Dados: </strong>MYSQL, MONGODB.</li>
-    <li><strong>Ferramentas de Design: </strong>PHOTOSHOP, ILUSTRATOR, FIGMA.</li>
-    <li><strong>Ferramentas de Modelagem: </strong>BLENDER3D, CINEMA4D.</li>
-    <li><strong>Sistema Operacional: </strong>WINDOWS 11.</li>
-  </ul>
-</div>
+<!-- Tecnologias e Ferramentas -->
+<table align="center" style="border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
+  <thead>
+    <tr>
+      <th colspan="2" style="font-size: 20px; padding: 10px;">Tecnologias e Ferramentas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Linguagens:</strong></td>
+      <td>JAVASCRIPT, TYPESCRIPT.</td>
+    </tr>
+    <tr>
+      <td><strong>Desenvolvimento Web:</strong></td>
+      <td>HTML5, CSS3, SCSS, REACT.JS, NODE.JS.</td>
+    </tr>
+    <tr>
+      <td><strong>Banco de Dados:</strong></td>
+      <td>MYSQL, MONGODB.</td>
+    </tr>
+    <tr>
+      <td><strong>Ferramentas de Design:</strong></td>
+      <td>PHOTOSHOP, ILUSTRATOR, FIGMA.</td>
+    </tr>
+    <tr>
+      <td><strong>Ferramentas de Modelagem:</strong></td>
+      <td>BLENDER3D, CINEMA4D.</td>
+    </tr>
+    <tr>
+      <td><strong>Sistema Operacional:</strong></td>
+      <td>WINDOWS 11.</td>
+    </tr>
+  </tbody>
+</table>
 
-<div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
-  <h2>Sobre mim</h2>
-  <ul style="list-style-type: none; padding: 0; text-align: center;">
-    <li>Web Designer & Game Designer, mas atualmente interessado exclusivamente por Desenvolvimento Web.</li>
-    <li>Sempre em busca de desafios para evoluir minhas habilidades.</li>
-    <li>Aberto a colaborações em projetos e oportunidades profissionais.</li>
-  </ul>
-</div>
+<!-- Sobre mim -->
+<table align="center" style="border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
+  <thead>
+    <tr>
+      <th style="font-size: 20px; padding: 10px;">Sobre mim</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Web Designer & Game Designer, mas atualmente interessado exclusivamente por Desenvolvimento Web.</td>
+    </tr>
+    <tr>
+      <td>Sempre em busca de desafios para evoluir minhas habilidades.</td>
+    </tr>
+    <tr>
+      <td>Aberto a colaborações em projetos e oportunidades profissionais.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 **Obrigado por visitar meu perfil!** Não se esqueça de dar uma !star nos seus repositórios favoritos!
 
