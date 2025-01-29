@@ -2,7 +2,7 @@
 
 ### Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, sempre explorando novas ideias e buscando criar soluções incríveis.
 
-<div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;"> 
+<div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; width: 90%; max-width: 800px; margin: 20px auto;"> 
   <h2>Tecnologias e Ferramentas</h2> 
   <ul style="list-style-type: none; padding: 0; text-align: center;"> 
       <li><strong>Linguagens: </strong>HTML5, CSS3, JAVASCRIPT, TYPESCRIPT.</li> 
@@ -14,7 +14,7 @@
   </ul> 
 </div> 
 
-<div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; background-color: #f4f4f4; width: 90%; max-width: 800px; margin: 20px auto;">
+<div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; width: 90%; max-width: 800px; margin: 20px auto;">
   <h2>Sobre mim</h2>
   <ul style="list-style-type: none; padding: 0; text-align: center;">
     <li>Web Designer & Game Designer, mas atualmente interessado exclusivamente por Desenvolvimento Web.</li>
