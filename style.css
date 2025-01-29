@@ -1,6 +1,6 @@
 /* style.css */
 body {
-    background-color: #010409; /* Cor de fundo */
+    background-color: #010409; /* Cor de fundo escura */
     color: white; /* Texto branco */
     font-family: monospace; /* Fonte monospace */
     margin: 0;
@@ -15,11 +15,27 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: white; /* Texto branco para títulos */
+    color: white; /* Títulos em branco */
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+h1 {
+    font-size: 2.5em;
+    border-bottom: 2px solid #0d1117; /* Linha abaixo do título */
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
 }
 
 a {
-    color: #58a6ff; /* Cor de link para contraste */
+    color: #58a6ff; /* Cor dos links */
     text-decoration: none;
 }
 
@@ -38,13 +54,22 @@ div {
 }
 
 ul {
-    list-style-type: none;
+    list-style-type: none; /* Remove marcadores padrão */
     padding: 0;
-    text-align: center;
+    text-align: left; /* Alinhamento do texto à esquerda */
 }
 
 li {
     margin: 10px 0;
+    padding-left: 20px;
+    position: relative;
+}
+
+li::before {
+    content: "•"; /* Adiciona um marcador personalizado */
+    color: #58a6ff; /* Cor do marcador */
+    position: absolute;
+    left: 0;
 }
 
 strong {
@@ -67,4 +92,26 @@ img {
     max-width: 100%;
     height: auto;
     border-radius: 5px;
+    margin: 10px 0;
+}
+
+/* Estilo para blocos de código (se houver) */
+code {
+    background-color: #0d1117;
+    padding: 2px 5px;
+    border-radius: 3px;
+    color: #c9d1d9;
+    font-family: monospace;
+}
+
+pre {
+    background-color: #0d1117;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+pre code {
+    background-color: transparent;
+    padding: 0;
 }
