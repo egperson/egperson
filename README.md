@@ -10,7 +10,7 @@
       <li><strong>Banco de Dados: </strong>MYSQL, MONGODB.</li>
       <li><strong>Ferramentas de Design: </strong>PHOTOSHOP, ILUSTRATOR, FIGMA.</li>
       <li><strong>Ferramentas de Modelagem: </strong>BLENDER-3D, CINEMA-4D.</li>
-      <li><strong>Sistema Operacional: </strong>WINDOWS-11.</li> 
+      <li><strong>Sistema Operacional: </strong>UBUNTU 24.04.</li> 
   </ul> 
 </div> 
 
