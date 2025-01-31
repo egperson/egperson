@@ -6,7 +6,7 @@
   <h2>Tecnologias e Ferramentas</h2> 
   <ul style="list-style-type: none; padding: 0; text-align: center;"> 
       <li><strong>Linguagens: </strong>HTML5, CSS3, JAVASCRIPT, TYPESCRIPT.</li> 
-      <li><strong>Desenvolvimento Web: </strong>SCSS, REACT-JS, NODE-JS.</li>
+      <li><strong>Desenvolvimento Web: </strong>SCSS, TAILWIND-CSS, REACT-JS, NODE-JS.</li>
       <li><strong>Banco de Dados: </strong>MYSQL, MONGODB.</li>
       <li><strong>Ferramentas de Design: </strong>PHOTOSHOP, ILUSTRATOR, FIGMA.</li>
       <li><strong>Ferramentas de Modelagem: </strong>BLENDER-3D, CINEMA-4D.</li>
