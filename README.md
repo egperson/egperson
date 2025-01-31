@@ -27,4 +27,4 @@
 
 | Estatísticas do GitHub | Linguagens mais usadas |
 |------------------------|-------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egoficial&locale=pt-br&&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=egoficial&layout=compact&langs_count=8&card_width=320&locale=pt-br&&theme=dark) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egoficial&locale=pt-br&&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=egoficial&langs_count=8&card_width=320&locale=pt-br&&theme=dark) |
