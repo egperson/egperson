@@ -1,6 +1,6 @@
 # Olá, eu sou o Eduardo Guilherme!
 
-<p>Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, sempre explorando novas ideias e buscando criar soluções incríveis.</p>
+<p>Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, sempre explorando novas ideias <br> e buscando criar soluções incríveis.</p>
 
 <div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; width: 90%; max-width: 800px; margin: 20px auto;"> 
   <h2>Tecnologias e Ferramentas</h2> 
