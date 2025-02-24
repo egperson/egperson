@@ -23,11 +23,11 @@
   </ul> 
 </div>
 
-**Obrigado por visitar meu perfil!** Não se esqueça de dar uma !star nos seus repositórios favoritos!
+**Obrigado por visitar meu perfil!** Não se esqueça de dar uma ⚝ nos seus repositórios favoritos!
 
 ---
 
-> ℹ️ **ᴇꜱᴛᴀᴛɪꜱᴛɪᴄᴀꜱ ᴅᴏ ɢɪᴛʜᴜʙ**
+> 🛈 **ᴇꜱᴛᴀᴛɪꜱᴛɪᴄᴀꜱ ᴅᴏ ɢɪᴛʜᴜʙ**
 > 
 > ᴜᴍᴀ ɪɴꜰᴏʀᴍᴀᴄᴀᴏ ᴀᴅɪᴄɪᴏɴᴀʟ ᴘᴀʀᴀ ᴀᴊᴜᴅᴀʀ.
 
