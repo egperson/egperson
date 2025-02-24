@@ -25,11 +25,19 @@
 
 **Obrigado por visitar meu perfil!** Não se esqueça de dar uma !star nos seus repositórios favoritos!
 
-| Estatísticas GitHub | |
-|----------------------|------------------------------------------------|
-| **Perfil Detalhado** | <p align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoficial&theme=dark" alt="GitHub Stats"></a></p> |
-| **Linguagem Mais Usada** | <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egoficial&theme=dark" alt="Linguagem mais usada"></p> |
-| **Repositórios por Linguagem** | <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egoficial&theme=dark" alt="Repositórios por linguagem"></p> |
-| **Estatísticas Gerais** | <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egoficial&theme=dark" alt="Estatísticas gerais"></p> |
-| **Hora Mais Produtiva** | <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egoficial&theme=dark" alt="Horário mais produtivo"></p> |
+> ℹ️ **ᴇꜱᴛÁᴛɪꜱᴛɪᴄᴀꜱ ᴅᴏ ɢɪᴛʜᴜʙ**
+> 
+> ɪꜱꜱᴏ É ᴜᴍᴀ ɪɴꜰᴏʀᴍᴀÇÃᴏ ᴀᴅɪᴄɪᴏɴᴀʟ ᴘᴀʀᴀ ᴀᴊᴜᴅᴀʀ.
 
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoficial&theme=dark" alt="GitHub Stats">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egoficial&theme=dark" alt="Linguagem mais usada">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egoficial&theme=dark" alt="Repositórios por linguagem">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egoficial&theme=dark" alt="Estatísticas gerais">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egoficial&theme=dark" alt="Horário mais produtivo">
+</p>
