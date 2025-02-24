@@ -25,6 +25,6 @@
 
 **Obrigado por visitar meu perfil!** Não se esqueça de dar uma !star nos seus repositórios favoritos!
 
-| Linguagens mais usadas | Atividade por dia da semana |
-|------------------------|---------------------------|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egoficial&layout=donut-vertical&locale=pt-br&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![Commits por dia](https://github-readme-stats.vercel.app/api?username=egoficial&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&locale=pt-br&theme=dark&hide_border=true&line_height=28)](https://github.com/anuraghazra/github-readme-stats) |
+| Linguagens mais usadas | Contribuições no GitHub |
+|------------------------|-------------------------|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egoficial&layout=donut-vertical&locale=pt-br&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=egoficial&locale=pt-br&theme=dark&hide_longest_streak=true)](https://github.com/DenverCoder1/github-readme-streak-stats) |
