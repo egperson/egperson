@@ -27,4 +27,4 @@
 
 | Estatísticas do GitHub | Linguagens mais usadas |
 |------------------------|-------------------------|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=egoficial&locale=pt-br&&theme=dark\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egoficial&layout=donut-vertical&locale=pt-br&&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egoficial&layout=donut-vertical&locale=pt-br&&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
