@@ -2,9 +2,9 @@
 
 <p>Bem-vindo(a) ao meu perfil! Sou um apaixonado por desenvolvimento e tecnologia, sempre explorando novas ideias <br> e buscando criar soluções incríveis.</p>
 
-<div style="display: flex; flex-direction: column; align-items: center; border: 2px solid #D3D3D3; border-radius: 10px; padding: 20px; width: 90%; max-width: 800px; margin: 20px auto;"> 
+<div> 
   <h2>Tecnologias e Ferramentas</h2> 
-  <ul style="list-style-type: none; padding: 0; text-align: center;"> 
+  <ul> 
       <li><strong>Linguagens: </strong>HTML5, CSS3, JAVASCRIPT, TYPESCRIPT.</li> 
       <li><strong>Desenvolvimento Web: </strong>SCSS, TAILWIND-CSS, REACT-JS, NODE-JS.</li>
       <li><strong>Banco de Dados: </strong>MYSQL, MONGODB.</li>
@@ -16,7 +16,7 @@
 
 <div>
   <h2>Sobre mim</h2>
-  <ul style="list-style-type: none; padding: 0; text-align: center;">
+  <ul>
     <li>Web Designer & Game Designer, mas atualmente interessado exclusivamente por Desenvolvimento Web.</li>
     <li>Sempre em busca de desafios para evoluir minhas habilidades.</li>
     <li>Aberto a colaborações em projetos e oportunidades profissionais.</li>
