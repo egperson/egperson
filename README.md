@@ -27,8 +27,8 @@
 
 ---
 
-<div style="width: 100vw; display: flex; justify-content: center;">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" style="width: 100%; display: flex; justify-content: center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoficial&theme=dark" alt="GitHub Stats" style="max-width: 100%;">
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoficial&theme=dark" alt="GitHub Stats">
   </a>
-</div>
+</p>
