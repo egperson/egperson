@@ -25,7 +25,8 @@
 
 **Obrigado por visitar meu perfil!** Não se esqueça de dar uma ⚝ nos seus repositórios favoritos!
 
-<p align="center">🛈 ᴇꜱᴛᴀᴛɪꜱᴛɪᴄᴀꜱ ᴅᴏ ɢɪᴛʜᴜʙ <br> ᴜᴍᴀ ɪɴꜰᴏʀᴍᴀᴄᴀᴏ ᴀᴅɪᴄɪᴏɴᴀʟ ᴘᴀʀᴀ ᴀᴊᴜᴅᴀʀ.</p>
+<div>
+  <p align="center">🛈 ᴇꜱᴛᴀᴛɪꜱᴛɪᴄᴀꜱ ᴅᴏ ɢɪᴛʜᴜʙ <br> ᴜᴍᴀ ɪɴꜰᴏʀᴍᴀᴄᴀᴏ ᴀᴅɪᴄɪᴏɴᴀʟ ᴘᴀʀᴀ ᴀᴊᴜᴅᴀʀ.</p>
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
@@ -39,3 +40,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egoficial&theme=github_dark&locale=pt-br" alt="Estatísticas gerais">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egoficial&theme=github_dark&locale=pt-br" alt="Horário mais produtivo">
 </p>
+</div>
