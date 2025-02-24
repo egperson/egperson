@@ -25,6 +25,6 @@
 
 **Obrigado por visitar meu perfil!** Não se esqueça de dar uma !star nos seus repositórios favoritos!
 
-| | Linguagens mais usadas | |
-|------------------------|-------------------------|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egoficial&layout=donut-vertical&locale=pt-br&&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+| Linguagens mais usadas | Outra estatística interessante |
+|------------------------|-------------------------------|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egoficial&layout=donut-vertical&locale=pt-br&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egoficial&show_icons=true&locale=pt-br&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
