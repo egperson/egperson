@@ -25,6 +25,6 @@
 
 **Obrigado por visitar meu perfil!** Não se esqueça de dar uma !star nos seus repositórios favoritos!
 
-| Linguagens mais usadas | Estatísticas do GitHub |
-|------------------------|-----------------------|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egoficial&layout=donut-vertical&locale=pt-br&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoficial&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+---
+
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoficial&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
