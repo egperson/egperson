@@ -25,7 +25,6 @@
 
 **Obrigado por visitar meu perfil!** Não se esqueça de dar uma ⚝ nos seus repositórios favoritos!
 
----
 <p align="center">🛈 ᴇꜱᴛᴀᴛɪꜱᴛɪᴄᴀꜱ ᴅᴏ ɢɪᴛʜᴜʙ <br> ᴜᴍᴀ ɪɴꜰᴏʀᴍᴀᴄᴀᴏ ᴀᴅɪᴄɪᴏɴᴀʟ ᴘᴀʀᴀ ᴀᴊᴜᴅᴀʀ.</p>
 
 <p align="center">
