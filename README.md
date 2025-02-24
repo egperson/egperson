@@ -28,5 +28,5 @@
 ---
 
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoficial&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoficial&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)">
 </div>
