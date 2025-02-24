@@ -33,13 +33,13 @@
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoficial&theme=dark&locale=pt-br" alt="GitHub Stats">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoficial&theme=tokyonight&locale=pt-br" alt="GitHub Stats">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egoficial&theme=dark&locale=pt-br" alt="Linguagem mais usada">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egoficial&theme=dark&locale=pt-br" alt="Repositórios por linguagem">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egoficial&theme=dark&locale=pt-br" alt="Estatísticas gerais">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egoficial&theme=dark&locale=pt-br" alt="Horário mais produtivo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egoficial&theme=tokyonight&locale=pt-br" alt="Linguagem mais usada">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egoficial&theme=tokyonight&locale=pt-br" alt="Repositórios por linguagem">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egoficial&theme=tokyonight&locale=pt-br" alt="Estatísticas gerais">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egoficial&theme=tokyonight&locale=pt-br" alt="Horário mais produtivo">
 </p>
