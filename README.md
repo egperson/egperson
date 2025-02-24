@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoficial&theme=dark&locale=pt-br" alt="GitHub Stats">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoficial&theme=dark&locale=pt-pt" alt="GitHub Stats">
   </a>
 </p>
 
