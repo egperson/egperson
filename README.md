@@ -10,7 +10,7 @@
     <li><strong>Banco de Dados: </strong>MYSQL, MONGODB, POSTGRESQL.</li>
     <li><strong>Ferramentas de Design: </strong>FIGMA, MOCKFLOW.</li>
     <li><strong>Ferramentas de Modelagem: </strong>BLENDER.</li>
-    <li><strong>Sistema Operacional: </strong>LINUX: DEBIAN.</li> 
+    <li><strong>Sistema Operacional: </strong>LINUX: GNOME 46.0.</li> 
   </ul> 
 </div> 
 
