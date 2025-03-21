@@ -5,11 +5,10 @@
 <div> 
   <h2>Tecnologias e Ferramentas</h2> 
   <ul> 
-    <li><strong>Desenvolvimento Web: </strong>SCSS, TAILWIND-CSS, REACT-JS, NODE-JS.</li>
-    <li><strong>Linguagens: </strong>HTML5, CSS3, JAVASCRIPT, TYPESCRIPT.</li> 
-    <li><strong>Banco de Dados: </strong>MYSQL, MONGODB, POSTGRESQL.</li>
-    <li><strong>Ferramentas de Design: </strong>FIGMA, MOCKFLOW.</li>
-    <li><strong>Ferramentas de Modelagem: </strong>BLENDER.</li>
+    <li><strong>Desenvolvimento Web: </strong>HTML5, CSS3, SCSS.</li>
+    <li><strong>Linguagens: </strong>JAVASCRIPT.</li> 
+    <li><strong>Banco de Dados: </strong>Loading...</li>
+    <li><strong>Ferramentas de Design: </strong>FIGMA</li>
     <li><strong>Sistema Operacional: </strong>LINUX: GNOME 46.0.</li> 
   </ul> 
 </div> 
