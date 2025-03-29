@@ -39,6 +39,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egoficial&theme=transparent&locale=pt-br" alt="Linguagem mais usada">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egoficial&theme=transparent&locale=pt-br" alt="Repositórios por linguagem">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egoficial&theme=transparent&locale=pt-br" alt="Estatísticas gerais">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egoficial&theme=transparent&locale=pt-br" alt="Horário mais produtivo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egoficial&theme=transparent&locale=pt-br&utcOffset=+3.00" alt="Horário mais produtivo">
 </p>
 </div>
