@@ -1,6 +1,6 @@
 # Olá, eu sou o Eduardo Guilherme!
 
-<p>Bem-vindo(a) ao meu perfil! Estou sempre explorando novas ideias <br> e buscando criar soluções incríveis.</p>
+<p>Bem-vindo(a) ao meu perfil! Estou sempre explorando novas ideias e buscando criar soluções sólidas.</p>
 
 <div> 
   <h2>Tecnologias e Ferramentas</h2> 
