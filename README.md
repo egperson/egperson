@@ -5,7 +5,7 @@
 <div> 
   <h2>Tecnologias e Ferramentas</h2> 
   <ul> 
-    <li><strong>Desenvolvimento Web: </strong>HTML5, CSS3, SCSS.</li>
+    <li><strong>Desenvolvimento Web: </strong>HTML5, CSS3, SCSS/SASS.</li>
     <li><strong>Linguagens: </strong>JAVASCRIPT.</li> 
     <li><strong>Banco de Dados: </strong>Loading...</li>
     <li><strong>Ferramentas de Design: </strong>FIGMA</li>
