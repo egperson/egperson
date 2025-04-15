@@ -3,13 +3,12 @@
 <p>Bem-vindo(a) ao meu perfil! Estou sempre explorando novas ideias e buscando criar soluções sólidas.</p>
 
 <div> 
-  <h2>Tecnologias e Ferramentas</h2> 
+  <h2>Tecnologias e Ferramentas:</h2> 
   <ul> 
-    <li><strong>Desenvolvimento Web: </strong>HTML5, CSS3, SCSS/SASS.</li>
-    <li><strong>Linguagens: </strong>JAVASCRIPT.</li> 
-    <li><strong>Banco de Dados: </strong>Loading...</li>
-    <li><strong>Ferramentas de Design: </strong>FIGMA</li>
-    <li><strong>Sistema Operacional: </strong>LINUX: GNOME 46.0.</li> 
+    <li><strong>Desenvolvimento Web: </strong>HTML5, CSS3, SCSS/SASS, Tailwind CSS.</li>
+    <li><strong>Linguagens: </strong>Javascript, Typescript.</li> 
+    <li><strong>Banco de Dados: </strong>MySQL, MongoDB.</li>
+    <li><strong>Sistema Operacional: </strong>Windows 11.</li> 
   </ul> 
 </div> 
 
@@ -22,7 +21,7 @@
   </ul> 
 </div>
 
-**Obrigado por visitar meu perfil!** Não se esqueça de dar uma ⚝ nos seus repositórios favoritos!
+**Obrigado por visitar meu perfil!** Não se esqueça de dar uma !⚝ nos seus repositórios favoritos!
 
 ---
 
