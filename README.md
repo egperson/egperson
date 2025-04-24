@@ -5,8 +5,8 @@
 <div> 
   <h2>Tecnologias e Ferramentas:</h2> 
   <ul> 
-    <li><strong>Desenvolvimento Web: </strong>HTML, CSS, SCSS/SASS</li>
-    <li><strong>Linguagens: </strong>Javascript (vanila)</li> 
+    <li><strong>Desenvolvimento Web: </strong>HTML, CSS, SCSS/SASS.</li>
+    <li><strong>Linguagens: </strong>Javascript (vanila).</li> 
     <li><strong>Banco de Dados: </strong>Loading...</li>
     <li><strong>Sistema Operacional: </strong>Windows 11.</li> 
   </ul> 
