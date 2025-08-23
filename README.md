@@ -5,10 +5,10 @@
 <div> 
   <h2>Tecnologias e Ferramentas:</h2> 
   <ul> 
-    <li><strong>Desenvolvimento Web: </strong>HTML, CSS, SCSS/SASS, TAILWIND-CSS.</li>
-    <li><strong>Linguagens: </strong>Javascript (vanila).</li> 
+    <li><strong>Desenvolvimento Web: </strong>Loading...</li>
+    <li><strong>Sistema Operacional: </strong>Loading...</li>
     <li><strong>Banco de Dados: </strong>Loading...</li>
-    <li><strong>Sistema Operacional: </strong>Windows 11.</li> 
+    <li><strong>Linguagens: </strong>Loading...</li>
   </ul> 
 </div> 
 
@@ -16,8 +16,8 @@
   <h2>Sobre mim</h2>
   <ul>
     <li>Web Designer & Game Designer, mas atualmente interessado exclusivamente por Desenvolvimento Web.</li>
-    <li>Sempre em busca de desafios para evoluir minhas habilidades.</li>
     <li>Aberto a colaborações em projetos e oportunidades profissionais.</li>
+    <li>Sempre em busca de desafios para evoluir minhas habilidades.</li>
   </ul> 
 </div>
 
