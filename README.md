@@ -15,9 +15,9 @@
 <div>
   <h2>Sobre mim</h2>
   <ul>
-    <li>Web Designer & Game Designer, mas atualmente interessado exclusivamente por Desenvolvimento Web.</li>
     <li>Aberto a colaborações em projetos e oportunidades profissionais.</li>
     <li>Sempre em busca de desafios para evoluir minhas habilidades.</li>
+    <li>Designer (Web, Mobile & Corp) e Desenvolvedor.</li>
   </ul> 
 </div>
 
