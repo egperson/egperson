@@ -5,10 +5,10 @@
 <div> 
   <h2>Tecnologias e Ferramentas:</h2> 
   <ul> 
-    <li><strong>Desenvolvimento Web: </strong>Loading...</li>
-    <li><strong>Sistema Operacional: </strong>Loading...</li>
-    <li><strong>Banco de Dados: </strong>Loading...</li>
-    <li><strong>Linguagens: </strong>Loading...</li>
+    <li><strong>Desenvolvimento Web: </strong>NODEJS, REACTJS, NEXTJS & TAILWINDCSS.</li>
+    <li><strong>Sistema Operacional: </strong>Windows (Main) & Linux.</li>
+    <li><strong>Banco de Dados: </strong>MongoDB.</li>
+    <li><strong>Linguagens: </strong>HTML5, CSS3, JAVASCRIPT & TYPESCRIPT.</li>
   </ul> 
 </div> 
 
