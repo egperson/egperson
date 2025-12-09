@@ -5,9 +5,9 @@
 <div> 
   <h2>Tecnologias e Ferramentas:</h2> 
   <ul> 
-    <li><strong>Desenvolvimento Web: </strong>NODEJS, REACTJS, NEXTJS & TAILWINDCSS.</li>
-    <li><strong>Sistema Operacional: </strong>Windows (Main) & Linux.</li>
-    <li><strong>Banco de Dados: </strong>MongoDB.</li>
+    <li><strong>Desenvolvimento Web: </strong>NODE.JS, REACT.JS, NEXT.JS & TAILWIND.CSS.</li>
+    <li><strong>Sistema Operacional: </strong>WINDOWS (MAIN) & LINUX.</li>
+    <li><strong>Banco de Dados: </strong>MONGO.DB.</li>
     <li><strong>Linguagens: </strong>HTML5, CSS3, JAVASCRIPT & TYPESCRIPT.</li>
   </ul> 
 </div> 
