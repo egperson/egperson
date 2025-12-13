@@ -1,4 +1,6 @@
-# Olá, eu sou o Eduardo Guilherme!
+# Olá, eu sou o:
+
+![Banner Pessoal](./preview.png)
 
 <p>Bem-vindo(a) ao meu perfil! Estou sempre explorando novas ideias e buscando criar soluções sólidas.</p>
 
