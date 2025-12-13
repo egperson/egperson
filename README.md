@@ -37,9 +37,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egperson&theme=transparent&locale=pt-br" alt="Linguagem mais usada">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egperson&theme=transparent&locale=pt-br" alt="Repositórios por linguagem">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egperson&theme=transparent&locale=pt-br" alt="Estatísticas gerais">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egperson&theme=transparent&locale=pt-br&utcOffset=-3.00" alt="Horário mais produtivo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egperson&locale=pt-br" alt="Linguagem mais usada">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egperson&locale=pt-br" alt="Repositórios por linguagem">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egperson&locale=pt-br" alt="Estatísticas gerais">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egperson&locale=pt-br&utcOffset=-3.00" alt="Horário mais produtivo">
 </p>
 </div>
