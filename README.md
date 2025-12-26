@@ -32,14 +32,14 @@
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoficial&theme=github_dark&locale=pt-br" alt="GitHub Stats">
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoficial&theme=midnight_purple)
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egoficial&theme=github_dark&locale=pt-br" alt="Linguagem mais usada">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egoficial&theme=github_dark&locale=pt-br" alt="Repositórios por linguagem">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egoficial&theme=github_dark&locale=pt-br" alt="Estatísticas gerais">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egoficial&theme=github_dark&locale=pt-br&utcOffset=-3.00" alt="Horário mais produtivo">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egoficial&theme=midnight_purple)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egoficial&theme=midnight_purple)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egoficial&theme=midnight_purple)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egoficial&theme=midnight_purple&utcOffset=8)
 </p>
 </div>
