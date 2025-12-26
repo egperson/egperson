@@ -8,7 +8,7 @@
     <li><strong>Desenvolvimento Web: </strong>NODE.JS, REACT.JS, NEXT.JS & TAILWIND.CSS.</li>
     <li><strong>Sistema Operacional: </strong>WINDOWS (MAIN) & LINUX(VPS).</li>
     <li><strong>Banco de Dados: </strong>MONGO.DB, MY.SQL & POSTGRE.SQL.</li>
-    <li><strong>Linguagens: </strong>HTML5, CSS3, JAVASCRIPT & TYPESCRIPT.</li>
+    <li><strong>Linguagens: </strong>HTML5, CSS3, SCSS / SASS, JAVASCRIPT & TYPESCRIPT.</li>
   </ul> 
 </div> 
 
