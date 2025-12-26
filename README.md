@@ -1,6 +1,4 @@
-# Olá, eu sou o:
-
-![Banner Pessoal](preview.png)
+# Olá, eu sou EG!
 
 <p>Bem-vindo(a) ao meu perfil! Estou sempre explorando novas ideias e buscando criar soluções sólidas.</p>
 
