@@ -28,18 +28,16 @@
 ---
 
 <div>
-  <p align="center">🛈 ᴇꜱᴛᴀᴛɪꜱᴛɪᴄᴀꜱ ᴅᴏ ɢɪᴛʜᴜʙ <br> ᴜᴍᴀ ɪɴꜰᴏʀᴍᴀᴄᴀᴏ ᴀᴅɪᴄɪᴏɴᴀʟ ᴘᴀʀᴀ ᴀᴊᴜᴅᴀʀ.</p>
-
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoficial&theme=midnight_purple)
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoficial&theme=midnight_purple" alt="GitHub Stats">
   </a>
 </p>
 
 <p align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egoficial&theme=midnight_purple)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egoficial&theme=midnight_purple)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egoficial&theme=midnight_purple)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egoficial&theme=midnight_purple&utcOffset=8)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egoficial&theme=midnight_purple" alt="Estatísticas gerais">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egoficial&theme=midnight_purple" alt="Linguagem mais usada">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egoficial&theme=midnight_purple" alt="Repositórios por linguagem">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egoficial&theme=midnight_purple&utcOffset=-3" alt="Horário mais produtivo">
 </p>
 </div>
