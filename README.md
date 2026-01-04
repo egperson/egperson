@@ -1,7 +1,7 @@
 # Olá, eu sou EG!
----
+
 ## Bem-vindo(a) ao meu perfil! Estou sempre explorando novas ideias e buscando criar soluções sólidas.
----
+
 ### Tecnologias e Ferramentas: 
 - Desenvolvimento Web: NODE.JS, REACT.JS, NEXT.JS & TAILWIND.CSS.
 - Sistema Operacional: WINDOWS ( MAIN ) & LINUX ( VPS ).
