@@ -5,9 +5,9 @@
 ### Tecnologias e Ferramentas: 
 
 - Desenvolvimento Web: NODE.JS, REACT.JS, NEXT.JS & TAILWIND.CSS.
-- Sistema Operacional: WINDOWS (MAIN) & LINUX(VPS).
+- Sistema Operacional: WINDOWS ( MAIN ) & LINUX ( VPS ).
 - Banco de Dados: MONGO.DB, MY.SQL & POSTGRE.SQL.
-- Linguagens:HTML5, CSS3, SCSS / SASS, JAVASCRIPT & TYPESCRIPT.
+- Linguagens: HTML5, CSS3, SCSS / SASS, JAVASCRIPT & TYPESCRIPT.
 
 ### Sobre mim
 - Aberto a colaborações em projetos e oportunidades profissionais.
