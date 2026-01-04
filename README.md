@@ -10,8 +10,8 @@
 - Linguagens: HTML5, CSS3, SCSS / SASS, JAVASCRIPT & TYPESCRIPT.
 
 ### Sobre mim
-- Aberto a colaborações em projetos e oportunidades profissionais.
+- Designer e Desenvolvedor.
 - Sempre em busca de desafios para evoluir minhas habilidades.
-- Designer (Web, Mobile & Corp) e Desenvolvedor.
+- Aberto a colaborações em projetos e oportunidades profissionais.
 
 **Obrigado por visitar meu perfil!** Não se esqueça de dar uma !⚝ nos seus repositórios favoritos!
