@@ -1,4 +1,4 @@
-# Olá, eu sou Eduardo Guilherme ( EG )!
+# Olá, eu sou Eduardo Guilherme (EG)!
 
 ## Bem-vindo(a) ao meu perfil! Estou sempre explorando novas ideias e buscando criar soluções sólidas.
 
