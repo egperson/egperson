@@ -1,4 +1,4 @@
-# Olá, eu sou o Eduardo Guilherme ou:
+# Olá, eu sou o Eduardo Guilherme! Ou:
 
 ![Personnal Banner Concept](personnal_banner_concept.png)
 
