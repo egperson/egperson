@@ -1,6 +1,6 @@
 # Olá, eu sou o Eduardo Guilherme ou:
 
-![Personnal Banner Concept]("personnal_banner_concept.png")
+![Personnal Banner Concept](personnal_banner_concept.png)
 
 ## Bem-vindo(a) ao meu perfil! Estou sempre explorando novas ideias e buscando criar soluções sólidas.
 
