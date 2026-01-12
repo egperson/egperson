@@ -1,4 +1,4 @@
-![Personnal Banner Concept](personnal_banner.png)
+![Personal Banner](personal_banner.png)
 
 ---
 
